@@ -1,6 +1,5 @@
 [TOC]
 
-
 ```mindmap
 # 标准模块FAQ
 ## 硬件设计FAQ
